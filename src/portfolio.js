@@ -132,7 +132,7 @@ const educationInfo = {
       schoolName: "Adamjee Govt. Science College",
       logo: require("./assets/images/download (1).jpg"),
       subHeader: "Intermediate in Computer Science",
-      duration: "October 2020 - Present "
+      duration: "October 2020 - August 2022 "
       // desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ..."
       // descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
     }
