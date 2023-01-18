@@ -26,7 +26,7 @@ const greeting = {
 const socialMediaLinks = {
   github: "https://github.com/Shahzaib-Shoaib",
   // linkedin: "https://www.linkedin.com/in/saadpasta/",
-  gmail: "shahzaibshoaib21@gmail.com",
+  gmail: "fester9484@gmail.com",
   // gitlab: "https://gitlab.com/saadpasta",
   facebook: "https://www.facebook.com/profile.php?id=100015824075773",
   // medium: "https://medium.com/@saadpasta",
@@ -353,7 +353,7 @@ const contactInfo = {
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
   number: "+92-##########",
-  email_address: "shahzaibshoaib21@gmail.com"
+  email_address: "fester9484@gmail.com"
 };
 
 // Twitter Section
