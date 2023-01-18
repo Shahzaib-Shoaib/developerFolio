@@ -251,7 +251,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certification",
-          url: "https://drive.google.com/file/d/1IaVU_lcHC8TCEcOaBH8lPzdmuvstrpI9/view0"
+          url: "https://drive.google.com/file/d/1IaVU_lcHC8TCEcOaBH8lPzdmuvstrpI9/view?usp=sharing"
         }
         // {
         //   name: "Award Letter",
