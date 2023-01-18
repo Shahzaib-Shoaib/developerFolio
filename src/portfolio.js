@@ -244,9 +244,9 @@ const achievementSection = {
 
   achievementsCards: [
     {
-      title: "Fundamentals of digital marketing",
-      // subtitle:
-      //   "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
+      title: "The Fundamentals of Digital Marketing",
+      subtitle:
+        "Completed Certification from Google Digital Garage for Fundamentals of digital marketing",
       image: require("./assets/images/digitalMarketing.png"),
       footerLink: [
         {
@@ -278,7 +278,7 @@ const achievementSection = {
 
     // {
     //   title: "PWA Web App Developer",
-    //   subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
+    //   subtitle: "Completed Certification from SMIT for PWA Web App Development",
     //   image: require("./assets/images/pwaLogo.webp"),
     //   footerLink: [
     //     {name: "Certification", url: ""},
