@@ -135,6 +135,14 @@ const educationInfo = {
       duration: "October 2020 - August 2022 "
       // desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ..."
       // descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+    },
+    {
+      schoolName: "Karachi University - UBIT",
+      logo: require("./assets/images/download (2).jpg"),
+      subHeader: "Bachelor of Science in Software Engineering",
+      duration: "February 2023 - Present"
+      // desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ..."
+      // descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
     }
   ]
 };
