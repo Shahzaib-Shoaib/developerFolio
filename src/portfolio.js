@@ -137,7 +137,7 @@ const educationInfo = {
       // descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
     },
     {
-      schoolName: "Karachi University - UBIT",
+      schoolName: "University Of Karachi - UBIT",
       logo: require("./assets/images/download (2).jpg"),
       subHeader: "Bachelor of Science in Software Engineering",
       duration: "February 2023 - Present"
