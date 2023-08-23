@@ -28,7 +28,7 @@ const socialMediaLinks = {
   // linkedin: "https://www.linkedin.com/in/saadpasta/",
   gmail: "fester9484@gmail.com",
   // gitlab: "https://gitlab.com/saadpasta",
-  facebook: "https://www.facebook.com/profile.php?id=100015824075773",
+  facebook: "https://www.facebook.com/profile.php?id=100089108027329",
   // medium: "https://medium.com/@saadpasta",
   // stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
   // Instagram, Twitter and Kaggle are also supported in the links!
@@ -171,7 +171,7 @@ const techStack = {
 // Work experience section
 
 const workExperiences = {
-  display: false, //Set it to true to show workExperiences Section  // CHANGED!!!!!!!!!!!
+  display: true, //Set it to true to show workExperiences Section  // CHANGED!!!!!!!!!!!
   experience: [
     // {
     //   role: "Software Engineer",
@@ -187,9 +187,9 @@ const workExperiences = {
     {
       role: "Front-End Developer",
       company: "Paintigo",
-      companylogo: require("./assets/images/quoraLogo.png"),
-      date: "January 2023 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      companylogo: require("./assets/images/logo-paintigo.png"),
+      date: "January 2023 – Present"
+      // desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     }
     // {
     //   role: "Software Engineer Intern",
@@ -261,41 +261,32 @@ const achievementSection = {
           name: "Certification",
           url: "https://drive.google.com/file/d/1IaVU_lcHC8TCEcOaBH8lPzdmuvstrpI9/view?usp=sharing"
         }
-        // {
-        //   name: "Award Letter",
-        //   url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
-        // },
-        // {
-        //   name: "Google Code-in Blog",
-        //   url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
-        // }
+      ]
+    },
+    {
+      title: "Introduction to Front-End Development",
+      subtitle:
+        "Completed Certification from Meta for Introduction to Front-End Development",
+      image: require("./assets/images/ifed.jpeg"),
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://drive.google.com/file/d/1e3LmNm9kEFbr6fheWGbMuYG0mxmKXk1Y/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      title: "Programming with JavaScript",
+      subtitle:
+        "Completed Certification from Meta for Programming with JavaScript",
+      image: require("./assets/images/pwj.jpeg"),
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://drive.google.com/file/d/1oQnbPa-diKFirB2BdfOqhrRtmK3NS1Le/view?usp=sharing"
+        }
       ]
     }
-    // {
-    //   title: "Google Assistant Action",
-    //   subtitle:
-    //     "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-    //   image: require("./assets/images/googleAssistantLogo.webp"),
-    //   footerLink: [
-    //     {
-    //       name: "View Google Assistant Action",
-    //       url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
-    //     }
-    //   ]
-    // },
-
-    // {
-    //   title: "PWA Web App Developer",
-    //   subtitle: "Completed Certification from SMIT for PWA Web App Development",
-    //   image: require("./assets/images/pwaLogo.webp"),
-    //   footerLink: [
-    //     {name: "Certification", url: ""},
-    //     {
-    //       name: "Final Project",
-    //       url: "https://pakistan-olx-1.firebaseapp.com/"
-    //     }
-    //   ]
-    // }
   ],
   display: true // Set false to hide this section, defaults to true
 };
