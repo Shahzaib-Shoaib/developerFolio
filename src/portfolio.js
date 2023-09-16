@@ -280,7 +280,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certification",
-          url: "https://drive.google.com/file/d/1e3LmNm9kEFbr6fheWGbMuYG0mxmKXk1Y/view?usp=sharing"
+          url: "https://www.coursera.org/account/accomplishments/certificate/SE4X6TKZ6GGF"
         }
       ]
     },
@@ -292,7 +292,29 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certification",
-          url: "https://drive.google.com/file/d/1oQnbPa-diKFirB2BdfOqhrRtmK3NS1Le/view?usp=sharing"
+          url: "https://www.coursera.org/account/accomplishments/certificate/M8Y27UBY8ER3"
+        }
+      ]
+    },
+    {
+      title: "Version Control",
+      subtitle: "Completed Certification from Meta for Version Control",
+      image: require("./assets/images/vc.jpeg"),
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://www.coursera.org/account/accomplishments/certificate/SDSDA7AS24ZK"
+        }
+      ]
+    },
+    {
+      title: "HTML and CSS in depth",
+      subtitle: "Completed Certification from Meta for HTML and CSS in depth",
+      image: require("./assets/images/hacid.jpeg"),
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://www.coursera.org/account/accomplishments/certificate/XW35JBDGSY5B"
         }
       ]
     }
