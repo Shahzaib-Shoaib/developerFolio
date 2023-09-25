@@ -34,7 +34,7 @@ const greeting = {
 
 const socialMediaLinks = {
   github: "https://github.com/Shahzaib-Shoaib",
-  // linkedin: "https://www.linkedin.com/in/saadpasta/",
+  linkedin: "www.linkedin.com/in/shahzaib-shoaib-70436128b",
   gmail: "fester9484@gmail.com",
   // gitlab: "https://gitlab.com/saadpasta",
   facebook: "https://www.facebook.com/profile.php?id=100089108027329",
@@ -315,6 +315,17 @@ const achievementSection = {
         {
           name: "Certification",
           url: "https://www.coursera.org/account/accomplishments/certificate/XW35JBDGSY5B"
+        }
+      ]
+    },
+    {
+      title: "React Basics",
+      subtitle: "Completed Certification from Meta for React Basics",
+      image: require("./assets/images/rb.jpeg"),
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://www.coursera.org/account/accomplishments/certificate/LYB9U7A4PKJG"
         }
       ]
     }
